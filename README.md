@@ -1,4 +1,6 @@
-                 - 👋 Hi, I’m @recurselinux aka secdet 💕 
+                 
+  https://media.discordapp.net/attachments/820090327591026720/831656499960741927/Square_Simple_4.jpg?width=401&height=401               
+                  👋 Hi, I’m @recurselinux aka secdet 💕 
                  - 👀 I’m interested in cyber security, penetration testing, infosec
                  - 🌱 I’m currently learning Hardware hacking🤖
                  - 💞️ I’m looking to collaborate on Tools 💞️💕
