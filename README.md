@@ -1,5 +1,6 @@
                  
-  https://media.discordapp.net/attachments/820090327591026720/831656499960741927/Square_Simple_4.jpg?width=401&height=401               
+![image](https://user-images.githubusercontent.com/80779456/114629097-fb8f7b80-9c85-11eb-8f40-97bb1c0b23f4.png)
+             
                   👋 Hi, I’m @recurselinux aka secdet 💕 
                  - 👀 I’m interested in cyber security, penetration testing, infosec
                  - 🌱 I’m currently learning Hardware hacking🤖
